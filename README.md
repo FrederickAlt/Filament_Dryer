@@ -7,6 +7,7 @@ It can heat up to a selected temperature and maintain humidity below a set targe
 - The code is written in **MicroPython**.  
 - The DHT22 sensor limits operation to a maximum of **125 °C**.  
 - The provided code restricts temperature to **90 °C** by default (safe for most ABS-printed casings), but this can be adjusted if your heater, fan, and enclosure material allow it.  
+<img src="https://github.com/user-attachments/assets/ffa3544b-6fdd-4d37-8279-b73a07e6f216" alt="WhatsApp Image" width="500"/>
 
 ---
 
