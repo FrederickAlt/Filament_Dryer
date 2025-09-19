@@ -71,8 +71,7 @@ Strongly recommended:
 
 3. **Copy the following files** to the device root:  
    - `Font/*`  
-   - `SSD1306_Custom_Font.py`  
-   - `button.py`  
+   - `lib`
    - `main.py`
     Note that you need to copy the files inside the `Font` folder not the folder itself.
 
